@@ -1,0 +1,15 @@
+.transactionHistory {
+  background-color: rgb(245, 224, 132);
+  width: 350px;
+
+  margin-top: 70px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+
+  text-align: center;
+
+  border-radius: 15px;
+  box-shadow: -2px 22px 61px 4px rgba(224, 236, 246, 0.5) inset,
+    -2px 22px 30px 33px rgba(172, 138, 75, 0.5);
+}

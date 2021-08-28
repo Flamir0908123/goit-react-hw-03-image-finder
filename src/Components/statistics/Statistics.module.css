@@ -1,0 +1,50 @@
+h2 {
+  margin: 0;
+}
+
+.statistics {
+  margin-top: 70px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border-radius: 15px;
+  background-color: thistle;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  box-shadow: -2px 22px 61px 4px rgba(224, 236, 246, 0.5) inset,
+    -2px 22px 20px 33px rgba(190, 133, 190, 0.5);
+}
+
+.title {
+  margin-top: 20px;
+  font-weight: 700;
+  font-size: 20px;
+}
+.statList {
+  display: flex;
+  list-style: none;
+  align-items: center;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+  border: 1px solid grey;
+  padding: 5px;
+  border-radius: 5px;
+  align-items: center;
+}
+
+.label {
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.percentage {
+  text-align: center;
+  color: white;
+}

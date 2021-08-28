@@ -1,0 +1,26 @@
+.ContactList {
+  margin-top: 30px;
+  list-style: none;
+  padding: 0%;
+}
+.ContactItem {
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 2px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.ContactItem:last-child {
+  margin-bottom: 0%;
+}
+.ContactItemText {
+  font-size: 15px;
+  line-height: 1, 2em;
+  margin-right: 15px;
+}
+.ContactItemSpan {
+  font-size: 15px;
+  line-height: 1, 2em;
+  margin-left: 15px;
+}

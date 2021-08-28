@@ -1,0 +1,15 @@
+.inputNameLabel {
+  display: block;
+  border: 1px black solid;
+  width: 150px;
+  height: 15px;
+  border-radius: 5%;
+  margin-bottom: 15px;
+  margin-top: 5px;
+}
+.form {
+  padding: 5px;
+  border-radius: 3px;
+  border: 1px solid black;
+  margin-bottom: 15px;
+}
